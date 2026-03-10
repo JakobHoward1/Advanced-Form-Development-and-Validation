@@ -2,6 +2,12 @@ import { useRouter } from "expo-router";
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 export default function Index() {
   const router = useRouter();
+
+// REMEMBER TO INSTALL ZOD
+// npm install react-hook-form zod @hookform/resolvers
+// unless this isn't needed in which case let me know
+
+
 // design and stuff, you can change text on the page and I do encourage it
   return (
     <View style={styles.container}>
