@@ -127,7 +127,7 @@ export default function Employee_Form() {
             />
             {errors.postal_code && <Text style={styles.error}>{errors.postal_code.message}</Text>}
 
-            // didn't know where the button should go just added it for page sake
+            {/*  didn't know where the button should go just added it for page sake */} 
             <TouchableOpacity style={styles.secondaryButton} onPress={handleSubmit(onSubmit)}>
                 <Text style={styles.submitButtonText}>Submit</Text>
             </TouchableOpacity>
@@ -211,4 +211,5 @@ const styles = StyleSheet.create({
 
     },
 })
+
 
