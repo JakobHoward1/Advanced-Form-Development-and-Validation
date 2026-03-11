@@ -1,3 +1,6 @@
+As a quick note, the employee form is not connected to the index or sign-in/sign-up page as we did not see it specified in the instructions. If this is wrong, sorry about that.
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
