@@ -11,8 +11,8 @@ export default function Index() {
 // design and stuff, you can change text on the page and I do encourage it
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Sign-in Testing Portal</Text>
-      <Text style={styles.subtitle}>Some cool yet catchy catchphrase will be here or something</Text>
+      <Text style={styles.title}>Login Portal</Text>
+      <Text style={styles.subtitle}>Welcome to our page</Text>
 
       <TouchableOpacity
         style={styles.primaryButton}
